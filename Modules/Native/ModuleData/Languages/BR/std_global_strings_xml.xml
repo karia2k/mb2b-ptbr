@@ -1,75 +1,75 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
-    <tag language="PTBR" />
+    <tag language="Português do Brasil" />
   </tags>
   <strings>
-    <string id="03mPaWum" text="Kingdom" />
-    <string id="08oulGov" text="Drop your equipped weapon." />
-    <string id="0EDGnl1C" text="Ranged Only" />
-    <string id="0fLpwDzk" text="Sets the window mode.{newline}Windowed: Runs the game on a window.{newline}Fullscreen: Runs the game in full screen.{newline}Borderless Fullscreen: Runs the game on a borderless maximized window." />
-    <string id="0hzYbsXD" text="Equip Weapon 1 DESC" />
-    <string id="0MvDMsEl" text="Occlusion Method" />
-    <string id="0ot0eBzv" text="Turn Camera With Horse In First Person" />
-    <string id="0ufcpRUS" text="Move Camera Up" />
+    <string id="03mPaWum" text="Reino" />
+    <string id="08oulGov" text="Largar sua arma equipada." />
+    <string id="0EDGnl1C" text="Apenas á Distância" />
+    <string id="0fLpwDzk" text="Configura o modo de janela.{newline}Janela: Roda o jogo em uma janela.{newline}Tela cheia: Roda o jogo em tela cheia.{newline}Tela cheia sem bordas: Roda o jogo em uma janela sem bordas maximizada." />
+    <string id="0hzYbsXD" text="Equipar Arma 1 DESC" />
+    <string id="0MvDMsEl" text="Método de Oclusão" />
+    <string id="0ot0eBzv" text="Mudar câmera com cavalo em primeira pessoa" />
+    <string id="0ufcpRUS" text="Mover câmera para cima" />
     <string id="0WrKbmfz" text="SMAA x2" />
-    <string id="0x44y8fb" text="Group 2 Hear DESC" />
-    <string id="0YV6wbsq" text="Pause time in campaign map." />
-    <string id="1awQTVqN" text="Number Of Ragdolls" />
+    <string id="0x44y8fb" text="Grupo 2 Ouvir DESC" />
+    <string id="0YV6wbsq" text="Pausar o tempo no mapa de campanha." />
+    <string id="1awQTVqN" text="Número de Ragdolls" />
     <string id="1dQFNvhQ" text="Numpad +" />
-    <string id="1ebaa1Wf" text="Toggle Walk/Run Mode" />
-    <string id="1uCaibsd" text="Full" />
-    <string id="1WsmBXkN" text="Frame Limiter" />
+    <string id="1ebaa1Wf" text="Alernar Andar/Correr" />
+    <string id="1uCaibsd" text="Cheio" />
+    <string id="1WsmBXkN" text="Limite de FPS" />
     <string id="1zEr6Zs8" text="Left Stick Right" />
-    <string id="25MeMNbP" text="Right" />
+    <string id="25MeMNbP" text="Direita" />
     <string id="26r6Q8at" text="Right Stick Down" />
     <string id="2Ao5DCb6" text="Move Party Down" />
-    <string id="2AyPP3rw" text="High" />
-    <string id="2bPTx7So" text="Your character goes to crouching state." />
-    <string id="2e8wI3EM" text="Equip Weapon 2" />
+    <string id="2AyPP3rw" text="Alto" />
+    <string id="2bPTx7So" text="Teu personagem se agaixa." />
+    <string id="2e8wI3EM" text="Equipar Arma 2" />
     <string id="2EjZcRgF" text="F5" />
-    <string id="2h2148cq" text="Send Message To Everyone" />
-    <string id="2qFVBblU" text="Toggle Weapon Mode DESC" />
+    <string id="2h2148cq" text="Mandar mensagem a todos" />
+    <string id="2qFVBblU" text="Alternar modo de arma DESC" />
     <string id="2v1xw6JS" text="Right Stick" />
-    <string id="2ZJQylWo" text="Switch between run and walk modes." />
-    <string id="3Dngsvya" text="Move Forward" />
-    <string id="3Gb7tKgJ" text="{LEFT} and {RIGHT}" />
-    <string id="3MLvkSjw" text="Report Shot Difficulty" />
+    <string id="2ZJQylWo" text="Alternar entre andar e correr." />
+    <string id="3Dngsvya" text="Andar para frente" />
+    <string id="3Gb7tKgJ" text="{LEFT} e {RIGHT}" />
+    <string id="3MLvkSjw" text="Reportar Dificuldade de Tiro" />
     <string id="3nTeojbI" text="=" />
-    <string id="3oUbmqJY" text="Synchronizes the game to the monitor's refresh rate. Eliminates tearing artifacts." />
-    <string id="3P7eDKEY" text="Equip Item 4" />
-    <string id="3sRdGQou" text="Leave" />
+    <string id="3oUbmqJY" text="Sincroniza o jgo com a taxa de atualização do monitor. Elimina tearing." />
+    <string id="3P7eDKEY" text="Equipar Item 4" />
+    <string id="3sRdGQou" text="Sair" />
     <string id="3V0bvyLC" text="{STR1}{STR2}" />
-    <string id="3YwMXbAT" text="Fastforward time in campaign map." />
-    <string id="3zk3mzG4" text="Leave DESC" />
+    <string id="3YwMXbAT" text="Acelerar o tempo no mapa de campanha." />
+    <string id="3zk3mzG4" text="Sair DESC" />
     <string id="41Na9Lg1" text="Left Stick" />
-    <string id="44akzqlm" text="Right Arrow" />
-    <string id="45yEpDdE" text="Resolution Scale" />
+    <string id="44akzqlm" text="Seta Direita" />
+    <string id="45yEpDdE" text="Escala de Resolução" />
     <string id="46vWdakp" text="Y" />
-    <string id="4aAvY4yO" text="Low" />
-    <string id="4AyPI1H9" text="Camera Toggle DESC" />
-    <string id="4e0ycN1Q" text="Everyone Hear" />
-    <string id="4Gdng2Tt" text="Hold for faster camera sliding on campaign map." />
+    <string id="4aAvY4yO" text="Baixo" />
+    <string id="4AyPI1H9" text="Alternar Câmera DESC" />
+    <string id="4e0ycN1Q" text="Todos Escutam" />
+    <string id="4Gdng2Tt" text="Segure para deslizar mais rapidamente com a câmera do mapa de campanha." />
     <string id="4NaOKslb" text="-" />
-    <string id="4Nw1hF2R" text="Kick your enemies to break their guard when not attacking or defending. Bash your enemies with your equipment while defending." />
-    <string id="4R4shVxp" text="Sharpen Amount" />
+    <string id="4Nw1hF2R" text="Chute seus inimigos para quebrar sua guarda quando não estiverem atacando ou defendendo. Esmague seus inimigos com teu equipamento enquanto defende." />
+    <string id="4R4shVxp" text="Nível de Nitidez" />
     <string id="4SeC2VOQ" text="D-pad Right" />
     <string id="4spC1rcN" text="SelectOrder7 DESC" />
     <string id="4v3kotBH" text="SelectOrder2 DESC" />
     <string id="4x1wGwW9" text="Select Order 7" />
-    <string id="4Z2NBfW4" text="Team Chat" />
+    <string id="4Z2NBfW4" text="Chat com Time" />
     <string id="58eAHUQi" text="Group 4 Hear DESC" />
-    <string id="5B3ptxje" text="Character Developer" />
-    <string id="5c7l7r31" text="Left Mouse Button" />
-    <string id="5JwDMBlz" text="Move Left DESC" />
+    <string id="5B3ptxje" text="Desenvolvedor de Personagem" />
+    <string id="5c7l7r31" text="Botão Esquerdo do Mouse" />
+    <string id="5JwDMBlz" text="Mover para esquerda DESC" />
     <string id="5jxcNYlU" text="Numpad 6" />
     <string id="5QpTaCa0" text="W" />
-    <string id="5siWUJPw" text="Fullscreen" />
-    <string id="5WDQLWCk" text="Campaign AI" />
-    <string id="6AnHiJGR" text="Selected Monitor" />
+    <string id="5siWUJPw" text="Tela Cheia" />
+    <string id="5WDQLWCk" text="IA da Campanha" />
+    <string id="6AnHiJGR" text="Monitor Selecionado" />
     <string id="6auWfPnA" text="SelectOrder6 DESC" />
     <string id="6CeL6iOp" text="Select Group 1" />
-    <string id="6g0y182U" text="Environment Detail" />
+    <string id="6g0y182U" text="Detalhe do Ambiente" />
     <string id="6QiPm27r" text="Move your party upward in campaign map." />
     <string id="6sIFj7K9" text="Fast-Forward Time" />
     <string id="6Uh76bYG" text="Map Time Stop" />
