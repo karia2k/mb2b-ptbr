@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Português do Brasil" />
+  </tags>
+  <strings>
+    <string id="(" text="Baldimos" />
+    <string id="3nilwlcM" text="Chegastes em {TUTORIAL_SETTLEMENT_NAME}. Para explorar, podes entrar na vila pressionando o botão destacado na esquerda." />
+    <string id="3RqEmB15" text="Navegando em Calradia" />
+    <string id="3Y5dudW9" text="Alda" />
+    <string id="3YkpC9Nf" text="Podes filtrar Items através dos botões no topo. Filtre-os pra them to Div." />
+    <string id="4IZnbvlD" text="Baudein" />
+    <string id="5bYwdRFs" text="Treinamento com Espada" />
+    <string id="5M48atXU" text="Tens uma missão ativa! Podes aprender mais sobre ela ao clicar em missões no canto inferior esquerdo da tua tela." />
+    <string id="7xHMIZEP" text="Alvo de Prática" />
+    <string id="8UUV94Lq" text="Treinamento à Distância" />
+    <string id="8YvBapxl" text="Varic" />
+    <string id="9YqwNQPO" text="Treinamento à Distância em Montaria" />
+    <string id="ajo9KQpr" text="Derrote o treinador iniciante" />
+    <string id="at4MdVBJ" text="Fathid" />
+    <string id="atWs6mkm" text="Treinamento com Espada e Escudo" />
+    <string id="axnDLcDA" text="Fale com o chefe" />
+    <string id="B7WlM3CU" text="Deves comprar suprimentos da vila no meno à esquerda." />
+    <string id="C8NDynaB" text="Niasen" />
+    <string id="CaCfbRJq" text="Nozhon" />
+    <string id="CONYULU6" text="Phasos" />
+    <string id="CpKLau15" text="Teu irmão recomenda que compres 2 sacos de grãos.{newline}{newline}Podes fazer isso transferindo-os para o teu inventário com a pequena seta do lado esquerdo" />
+    <string id="cZsPNpCs" text="Comprando Comida" />
+    <string id="d0LpBfis" text="Treinamento com Besta" />
+    <string id="D0SoDPcr" text="Treinamento Corpo a Corpo Avançado" />
+    <string id="ddoD208G" text="Notáveis o ajudarão a recrutar tropas maiores e melhores(níveis mais altos) de acordo com a tua relação com eles(as).{newline}{newline}Clique em algumas tropas para movê-las para teu exército." />
+    <string id="DELVwiEM" text="Tira" />
+    <string id="dFpNRB1g" text="Nogand" />
+    <string id="eFc6YuzQ" text="Para deixar uma missão, podes segurar &quot;Tab&quot;.{newline}{newline}Fazer isso vai retorná-lo ao menu da vila, ondes pode comprar suprimentos e contratar recrutas." />
+    <string id="EhELIf65" text="Teruin" />
+    <string id="elRQHiLR" text="Treinamento com Espada em Montaria" />
+    <string id="f6xYa3c4" text="Bem-vindo a Calradia!{newline}{newline}Podes explorar o mapa do mundo usando as teclas WASD, segurando clique direito e arrastar e podes aproximar ou recuar sua visão com a roda do mouse.{newline}{newline}Tenta aí." />
+    <string id="FFP17aSl" text="No começo de uma batalha teus soldados ficarão em posição de guarda. Podes mandá-los o seguir abrindo as ordens de movimento com &quot;F1&quot; e escolhendo &quot;Sigam-me&quot; com &quot;F2&quot;." />
+    <string id="fpdXZ0fl" text="Recrutamento" />
+    <string id="GCqWwDWg" text="Baladir" />
+    <string id="GjGF4xbn" text="Treinamento com Escudo" />
+    <string id="gUvxp8mf" text="Treinamento com Arco" />
+    <string id="IcBq2jSZ" text="Aitheen" />
+    <string id="Il7C9LQG" text="Podes te mover com:{newline}- Para frente com [W]{newline}- Para trás com [S]{newline}- À esquerda com [A]{newline}- À direita com [D]{newline}{newline}Te mexe um pouco aí!" />
+    <string id="JDtbzwB0" text="Nusun" />
+    <string id="jLWPSiOR" text="Fale com o chefe" />
+    <string id="jWvle1tC" text="Termine o percurso e acerte quantos alvos conseguir ({HIT} / {ALL}))" />
+    <string id="K0f6WLjV" text="Para deixar uma missão podes segurar TAB.{newline}{newline}Fazer isso vai retorná-lo ao menu da vila, ondes pode comprar suprimentos e contratar recrutas." />
+    <string id="KiJd6Xik" text="Movemento" />
+    <string id="KUEHAD4U" text="Missões" />
+    <string id="kwW6v202" text="Vá para a posição de tiro." />
+    <string id="L0tOoWpV" text="Vá ao treinador normal" />
+    <string id="L24eYhaX" text="Monte no cavalo" />
+    <string id="LGuJctoZ" text="Ataque o treinador ({HIT} / {ALL})" />
+    <string id="lN1RQ260" text="Atire nos Alvos ({HIT} / {ALL})" />
+    <string id="LS1whiyj" text="O menu no topo esquerdo mostra pessoas de interesse na tua atual localização.{newline}{newline}Clique no retrato do chefe para falar com ele" />
+    <string id="m2uEbrkh" text="Najun" />
+    <string id="mfugkRoz" text="Esconderijo &amp; Ordens" />
+    <string id="MgBazeaE" text="Alte" />
+    <string id="MqeQco4z" text="Treinamento com Lança em Montaria" />
+    <string id="MUEaqlix" text="Derrote o treinador veterano" />
+    <string id="NWxC3CbS" text="Fodor" />
+    <string id="OA9bQ8QJ" text="Alea" />
+    <string id="odbkXZkz" text="Para mover tua tropa deves clicar no mapa. Fazer isso vai deixar uma marca no local designado - a menos que tenhas clicado em áres inacessíveis, como montanhas ou mares.{newline}{newline}Vamos partir para {TUTORIAL_SETTLEMENT_NAME}!" />
+    <string id="OFNEE8Xr" text="Podes dizer a tua tropa para atacar abrindo as ordens de movimento &quot;F1&quot; e escolhendo Atacar &quot;F3&quot;." />
+    <string id="oj7B1GOT" text="Entrando em Assentamentos" />
+    <string id="OJmYUcaU" text="Com Espada" />
+    <string id="okM9QUFA" text="Treinamento com Dardos" />
+    <string id="opUBnFym" text="Terte" />
+    <string id="P7KbSBvr" text="Treinamento em Montaria" />
+    <string id="pAf5Mt3X" text="Alishka" />
+    <string id="q65JaEBW" text="Alya" />
+    <string id="q71nXdD4" text="Vá até o treinador" />
+    <string id="QHhdmvLj" text="Treinamento de Combate" />
+    <string id="qNrWU4Or" text="Treinamento Corpo a Corpo" />
+    <string id="qXv3BY5v" text="Podes segurar &quot;Left Alt&quot; para ver a localizção do Chefe.{newline}{newline}Quando estiver próximo(a) à ele pressione F para interagir." />
+    <string id="QZHSvGrD" text="Baldrim" />
+    <string id="rLEIuqZO" text="Após uma batalha, podes ter a escolha de prender alguns prisioneiros ou recrutar aqueles que libertou dos teus inimigos.{newline}{newline}Ambas as opções são feitas ao transferir as tropas para teu exército com a pequena seta na esquerda." />
+    <string id="Rvn8tGB0" text="Teu irmão pediu que recrutasse pelo menos 4 homens antes que vá combater os assaltantes.{newline}{newline}Podes recrutar tropas em vilas e cidades selecionando o botão &quot;Recrutar Tropas&quot;." />
+    <string id="Sfd3aqia" text="Bandan" />
+    <string id="tZtrK3cs" text="Treinamento de Arqueria em Montaria" />
+    <string id="uW4htMut" text="Com Espada e Escudo" />
+    <string id="w4Ajm40u" text="Faroc" />
+    <string id="WjuwOavt" text="Missões de esconderijo começam sem que o inimigo saiba da tua investida.{newline}{newline}Ordena tuas tropas a te seguir apertando &quot;F1&quot; e &quot;F2&quot;, tente derrotá-los em pequenos destacamentos." />
+    <string id="wq9sNkMc" text="Deixando uma Missão" />
+    <string id="WTF4ZIe7" text="Jatu" />
+    <string id="x4xx1Zd6" text="Comandos de Batalha" />
+    <string id="X7Xp9xGe" text="Tertha" />
+    <string id="xCHBC7S9" text="Clique no botão &quot;Conversar&quot; para retornar ao notável  e aprender mais sobre a tarefa seguinte." />
+    <string id="Xr50xGhr" text=" ({TIME_SCORE} segundos)" />
+    <string id="XsIq2RFs" text="Baldim" />
+    <string id="yCEMiKjB" text="Escolha {SELECTION}" />
+    <string id="yvdQ9MD6" text="Terea" />
+    <string id="Z33uQl2f" text="Tarya" />
+    <string id="z9eC5hjv" text="Com Lança e Escudo" />
+    <string id="ZozwfwVl" text="Defenda-se ({HIT} / {ALL})" />
+    <string id="ZW9OGfEt" text="Resgatando &amp; Tomando Prisioneiros" />
+  </strings>
+</base>
